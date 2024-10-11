@@ -1,0 +1,37 @@
+body{
+    background-image: url(https://media.walldeco.ua/wp-content/uploads/20240203204233/u94183p.jpg);
+    background-color: aliceblue;
+    
+}
+
+.box{
+    text-align: center;
+    background-color: white;
+    max-width: 280px;
+    padding: 60px;
+    justify-content: center;
+    align-content: center;
+    margin: 400px;
+    border-radius: 3px 20px 3px 3px;
+    box-shadow: 5px 10px 18px #888888;
+}
+
+ .button{
+    background-color: rgb(23, 0, 45);
+    padding: 6px;
+    margin-right: 30px;
+    margin-left: 30px;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 5px 10px 18px #888888;
+}
+
+img{
+    width: 40px;
+    height: auto;
+}
+
+h3{
+    color: rgb(144, 144, 0);
+}
+
